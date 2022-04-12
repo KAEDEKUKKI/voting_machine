@@ -1,1 +1,1 @@
-# vote_machine
+# voting_machine
