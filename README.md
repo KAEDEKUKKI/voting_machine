@@ -1,7 +1,3 @@
----
-title: Voting_machine
-description: View the slide with "Slide Mode".
----
 # Voting_machine
 #### [Github](https://github.com/KAEDEKUKKI/voting_machine)
 ## 實驗內容
