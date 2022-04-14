@@ -25,6 +25,6 @@ always @(I) case (I)
 endcase
 ```
 ## 結果
-![](https://imgur.com/Za6bE5K)
+![](https://imgur.com/Za6bE5K.png)
 ## 心得
 >這次作業中使用case，case相當簡單只要把所有條件列出即可，而testbench參考第一次作業就可以做出，相當簡單。
